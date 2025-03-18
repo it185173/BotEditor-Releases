@@ -1,1 +1,1 @@
-# BotEditor-Realeases
+# BotEditor-Releases
